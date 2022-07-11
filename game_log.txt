@@ -1,0 +1,153 @@
+Player 1's pieces
+Player 1 Ships!
+ Carrier's coordinates are: ( A , 0 ) ( A , 1 ) ( A , 2 ) ( A , 3 ) ( A , 4 ) 
+ Battleship's coordinates are: ( B , 2 ) ( B , 3 ) ( B , 4 ) ( B , 5 ) 
+ Cruiser's coordinates are: ( D , 2 ) ( E , 2 ) ( F , 2 ) 
+ Submarine's coordinates are: ( F , 2 ) ( G , 2 ) ( H , 2 ) 
+ Destroyer's coordinates are: ( J , 8 ) ( J , 9 ) 
+Player 2 Ships!
+ Carrier's coordinates are: ( F , 1 ) ( F , 2 ) ( F , 3 ) ( F , 4 ) ( F , 5 ) 
+ Battleship's coordinates are: ( B , 1 ) ( B , 2 ) ( B , 3 ) ( B , 4 ) 
+ Cruiser's coordinates are: ( H , 2 ) ( H , 3 ) ( H , 4 ) 
+ Submarine's coordinates are: ( F , 6 ) ( G , 6 ) ( H , 6 ) 
+ Destroyer's coordinates are: ( H , 7 ) ( H , 8 ) 
+Game start! 
+ 
+Player 1: A 0  Miss 
+Player 2: D 2  Hit 
+Player 1: A 2  Miss 
+Player 2: H 3  Miss 
+Player 1: A 4  Miss 
+Player 2: A 3  Hit 
+Player 1: A 6  Miss 
+Player 2: J 4  Miss 
+Player 1: A 8  Miss 
+Player 2: D 3  Miss 
+Player 1: B 1  Hit 
+Player 2: D 4  Miss 
+Player 1: B 2  Hit 
+Player 2: J 9  Hit 
+Player 1: B 3  Hit 
+Player 2: D 7  Miss 
+Player 1: B 4  Hit sunk Player 2's Battleship!
+Player 2: I 4  Miss 
+Player 1: B 5  Miss 
+Player 2: F 8  Miss 
+Player 1: B 7  Miss 
+Player 2: I 0  Miss 
+Player 1: B 9  Miss 
+Player 2: G 7  Miss 
+Player 1: C 0  Miss 
+Player 2: E 2  Hit 
+Player 1: C 2  Miss 
+Player 2: D 9  Miss 
+Player 1: C 4  Miss 
+Player 2: E 0  Miss 
+Player 1: C 6  Miss 
+Player 2: E 4  Miss 
+Player 1: C 8  Miss 
+Player 2: B 6  Miss 
+Player 1: D 0  Miss 
+Player 2: G 9  Miss 
+Player 1: D 1  Miss 
+Player 2: I 1  Miss 
+Player 1: D 3  Miss 
+Player 2: G 4  Miss 
+Player 1: D 5  Miss 
+Player 2: I 2  Miss 
+Player 1: D 7  Miss 
+Player 2: C 3  Miss 
+Player 1: D 9  Miss 
+Player 2: F 9  Miss 
+Player 1: E 0  Miss 
+Player 2: A 8  Miss 
+Player 1: E 2  Miss 
+Player 2: B 2  Hit 
+Player 1: E 4  Miss 
+Player 2: G 2  Hit 
+Player 1: E 6  Miss 
+Player 2: J 0  Miss 
+Player 1: E 8  Miss 
+Player 2: D 5  Miss 
+Player 1: F 1  Hit 
+Player 2: D 8  Miss 
+Player 1: F 2  Hit 
+Player 2: E 1  Miss 
+Player 1: F 0  Miss 
+Player 2: I 3  Miss 
+Player 1: F 3  Hit 
+Player 2: F 6  Miss 
+Player 1: F 4  Hit 
+Player 2: C 5  Miss 
+Player 1: F 5  Hit sunk Player 2's Carrier!
+Player 2: B 1  Miss 
+Player 1: F 7  Miss 
+Player 2: I 5  Miss 
+Player 1: F 9  Miss 
+Player 2: F 4  Miss 
+Player 1: G 0  Miss 
+Player 2: C 2  Miss 
+Player 1: G 2  Miss 
+Player 2: F 3  Miss 
+Player 1: G 4  Miss 
+Player 2: E 8  Miss 
+Player 1: G 6  Hit 
+Player 2: G 1  Miss 
+Player 1: G 7  Miss 
+Player 2: H 4  Miss 
+Player 1: G 8  Miss 
+Player 2: G 3  Miss 
+Player 1: G 5  Miss 
+Player 2: I 7  Miss 
+Player 1: H 6  Hit 
+Player 2: A 6  Miss 
+Player 1: I 6  Miss 
+Player 2: B 7  Miss 
+Player 1: H 1  Miss 
+Player 2: F 1  Miss 
+Player 1: H 3  Hit 
+Player 2: H 1  Miss 
+Player 1: G 3  Miss 
+Player 2: H 2  Hit 
+Player 1: H 2  Hit 
+Player 2: E 7  Miss 
+Player 1: H 4  Hit sunk Player 2's Cruiser!
+Player 2: C 9  Miss 
+Player 1: H 5  Miss 
+Player 2: A 7  Miss 
+Player 1: H 9  Miss 
+Player 2: A 1  Hit 
+Player 1: I 8  Miss 
+Player 2: J 3  Miss 
+Player 1: J 7  Miss 
+Player 2: G 6  Miss 
+Player 1: J 5  Miss 
+Player 2: D 0  Miss 
+Player 1: I 4  Miss 
+Player 2: H 9  Miss 
+Player 1: J 3  Miss 
+Player 2: C 6  Miss 
+Player 1: I 2  Miss 
+Player 2: B 9  Miss 
+Player 1: J 1  Miss 
+Player 2: F 0  Miss 
+Player 1: I 0  Miss 
+Player 2: B 4  Hit 
+Player 1: F 6  Hit sunk Player 2's Submarine!
+Player 2: A 9  Miss 
+Player 1: J 9  Miss 
+Player 2: I 6  Miss 
+Player 1: H 7  Hit 
+Player 2: H 0  Miss 
+Player 1: H 8  Hit sunk Player 2's Destroyer!
+Player 1 Wins! Player 2 Loses
+*** Player 1 ***
+Number of Hits: 17
+Number of Misses: 101
+Total Shots taken: 64
+Hit/Miss ratio: 0.27
+*** Player 2 ***
+Number of Hits: 9
+Number of Misses: 0
+Total Shots taken: 63
+Hit/Miss ratio: 0.14
